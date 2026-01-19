@@ -18,6 +18,12 @@ Highlights:
 
 🎓 B.Sc. in Surveying Engineering, providing a strong foundation in mathematical modeling and geospatial data analysis.
 
+🏆 IBM Certified:Data Visualization, Professional Data Science tracks & Databases and SQL.
+
+🧠 NVIDIA Deep Learning Institute:Specialized training in Deep Learning and AI architectures (Expected February 2026).
+
+☁️ AWS (AI & Cloud):Currently finalizing certification (Expected February 2026)..
+
 💼 Active Freelance Data Analyst on Upwork.
 
 🏆 Enthusiastic Kaggle competitor constantly sharpening my ML skills.

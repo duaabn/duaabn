@@ -4,7 +4,7 @@ I am a Data Scientist with an engineering background, passionate about transform
 
 What I do:
 
-📊 Data Analysis & Visualization: Crafting interactive dashboards using Power BI and Plotly/Dash.
+📊 Data Analysis & Visualization: Crafting interactive dashboards using Power BI / Tableau and Plotly / Dash.
 
 🤖 Machine Learning & Deep Learning: Building predictive models and exploring CNNs for computer vision tasks.
 
@@ -15,6 +15,8 @@ What I do:
 Highlights:
 
 🎓 Graduate of the Abdul Aziz Al Ghurair (AGGF) Data Science program.
+
+🎓 B.Sc. in Surveying Engineering, providing a strong foundation in mathematical modeling and geospatial data analysis.
 
 💼 Active Freelance Data Analyst on Upwork.
 

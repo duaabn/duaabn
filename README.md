@@ -1,29 +1,23 @@
-I’m a Data Analyst & Data Engineer who helps teams turn raw, messy data into clean datasets, automated reports, and decision-ready dashboards.
+Hi there, I’m Dua'a Bani Issa 👋
 
-What I can do for you
+I am a Data Scientist with an engineering background, passionate about transforming complex data into meaningful insights. My expertise lies in bridging the gap between engineering principles and data-driven decision-making.
 
-Data collection & integration (CSV/Excel/APIs/DB exports)
+What I do:
 
-Data cleaning & validation (missing values, duplicates, outliers, formatting & consistency checks)
+📊 Data Analysis & Visualization: Crafting interactive dashboards using Power BI and Plotly/Dash.
 
-SQL analysis & reporting (joins, aggregations, KPI queries, performance-minded reporting)
+🤖 Machine Learning & Deep Learning: Building predictive models and exploring CNNs for computer vision tasks.
 
-ETL-ready pipelines using Python + SQL (repeatable workflows you can rerun anytime)
+⚙️ MLOps & Deployment: Developing scalable applications using FastAPI and Docker.
 
-Dashboards & visualization (Power BI, Plotly Dash) with clear KPI storytelling
+🐍 Programming: Expert in Python and SQL for data manipulation and analysis.
 
-Insight reports (what happened, why it happened, and what to do next)
+Highlights:
 
-Tools
-Python (Pandas, NumPy), SQL, Power BI, Plotly, Dash, Excel
+🎓 Graduate of the Abdul Aziz Al Ghurair (AGGF) Data Science program.
 
-What you’ll receive
+💼 Active Freelance Data Analyst on Upwork.
 
-Clean dataset + documentation (data dictionary if needed)
+🏆 Enthusiastic Kaggle competitor constantly sharpening my ML skills.
 
-SQL/Python scripts (reproducible & well-structured)
-
-Dashboard/report + short summary of insights and recommendations
-
-If you share a sample of your data and your goals, I’ll recommend the best approach and deliver a clear plan from day one.
-<!--
+I’m always open to collaborating on interesting data projects or discussing the latest in AI and MLOps!

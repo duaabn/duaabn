@@ -14,15 +14,15 @@ What I do:
 
 Highlights:
 
-🎓 Graduate of the Abdul Aziz Al Ghurair (AGGF) Data Science program.
+🎓 Graduate of the Abdul Aziz Al Ghurair (AGGF) Data Science with python program.
 
-🎓 B.Sc. in Surveying Engineering, providing a strong foundation in mathematical modeling and geospatial data analysis.
+🎓 B.Sc. in Surveying & Geomatics Engineering, providing a strong foundation in mathematical modeling and geospatial data analysis.
 
-🏆 IBM Certified:Data Visualization, Professional Data Science tracks & Databases and SQL.
+🏆 IBM Certified: Data Visualization, Professional Data Science tracks & Databases and SQL.
 
-🧠 NVIDIA Deep Learning Institute:Specialized training in Deep Learning and AI architectures (Expected February 2026).
+🧠 NVIDIA Deep Learning Institute: Specialized training in Deep Learning and AI architectures.
 
-☁️ AWS (AI & Cloud):Currently finalizing certification (Expected February 2026)..
+☁️ AWS (AI & Cloud): Currently finalizing certification (Expected 6 2026)
 
 💼 Active Freelance Data Analyst on Upwork.
 

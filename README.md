@@ -1,6 +1,6 @@
 Hi there, I’m Dua'a Bani Issa 👋
 
-I am a Data Scientist with an engineering background, passionate about transforming complex data into meaningful insights. My expertise lies in bridging the gap between engineering principles and data-driven decision-making.
+I am a Data Scientist and AI Engineer with an engineering background, passionate about transforming complex data into meaningful insights. My expertise lies in bridging the gap between engineering principles and data-driven decision-making.
 
 What I do:
 
@@ -22,7 +22,7 @@ Highlights:
 
 🧠 NVIDIA Deep Learning Institute: Specialized training in Deep Learning and AI architectures.
 
-☁️ AWS (AI & Cloud): Currently finalizing certification (Expected 6 2026)
+☁️ AWS (AI & Cloud): Currently finalizing certification 
 
 💼 Active Freelance.
 

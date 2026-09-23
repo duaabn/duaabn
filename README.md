@@ -14,7 +14,7 @@ What I do:
 
 Highlights:
 
-🎓 Graduate of the Abdul Aziz Al Ghurair (AGGF) Data Science with python program.
+🎓 Graduate of the Abdul Aziz Al Ghurair (AGGF) Data Science with Python program.
 
 🎓 B.Sc. in Surveying & Geomatics Engineering, providing a strong foundation in mathematical modeling and geospatial data analysis.
 
@@ -24,7 +24,7 @@ Highlights:
 
 ☁️ AWS (AI & Cloud): Currently finalizing certification (Expected 6 2026)
 
-💼 Active Freelance Data Analyst on Upwork.
+💼 Active Freelance.
 
 🏆 Enthusiastic Kaggle competitor constantly sharpening my ML skills.
 
